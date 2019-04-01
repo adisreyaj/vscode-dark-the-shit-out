@@ -1,43 +1,45 @@
 {
-    "name": "dark-the-shit-out",
-    "displayName": "Dark The Shit Out",
-    "description": "Love Dark? This is the theme for those dark lords who loves to code in the dark and are afraid of the light.",
-    "version": "0.0.1",
-    "author": {
-        "name": "Adithya Sreyaj",
-        "email": "adi.sreyaj@gmail.com",
-        "url": "https://sreyaj.com"
-    },
-    "scripts": {
-        "list": "vsce ls",
-        "publish": "vsce publish"
-    },
-    "keywords": [
-        "VSCode Theme",
-        "Dark Theme",
-        "Dark Mode"
-    ],
-    "icon": "images/logo.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/adisreyaj/vscode-dark-the-shit-out.git"
-    },
-    "publisher": "adisreyaj",
-    "galleryBanner": {
-        "color": "#373436",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.32.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [{
-            "label": "Dark The Shit Out",
-            "uiTheme": "vs-dark",
-            "path": "./themes/Dark The Shit Out-color-theme.json"
-        }]
-    }
+  "name": "dark-the-shit-out",
+  "displayName": "Dark The Shit Out",
+  "description": "Love Dark? This is the theme for those dark lords who loves to code in the dark and are afraid of the light.",
+  "version": "0.0.2",
+  "author": {
+    "name": "Adithya Sreyaj",
+    "email": "adi.sreyaj@gmail.com",
+    "url": "https://sreyaj.com"
+  },
+  "scripts": {
+    "list": "vsce ls",
+    "publish": "vsce publish"
+  },
+  "keywords": [
+    "VSCode Theme",
+    "Dark Theme",
+    "Dark Mode"
+  ],
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adisreyaj/vscode-dark-the-shit-out.git"
+  },
+  "publisher": "adisreyaj",
+  "galleryBanner": {
+    "color": "#373436",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.32.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark The Shit Out",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark The Shit Out-color-theme.json"
+      }
+    ]
+  }
 }
