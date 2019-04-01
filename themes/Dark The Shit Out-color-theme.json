@@ -47,7 +47,14 @@
 		"list.activeSelectionForeground": "#fff",
 		"list.dropBackground": "#0e408b",
 		"list.focusBackground": "#0e408b",
-		"list.highlightForeground": "#0e408b"
+		"list.highlightForeground": "#0e408b",
+		"editor.snippetTabstopHighlightBackground": "#0b3958",
+		"sideBarSectionHeader.foreground": "#fff",
+		"sideBarSectionHeader.background": "#360055",
+		"editorSuggestWidget.background": "#05020c",
+		"editorSuggestWidget.foreground": "#b4b4b4",
+		"list.hoverBackground": "#0e408b",
+		"list.inactiveSelectionBackground": "#070b47",
 	},
 	"tokenColors": [{
 			"name": "Comment",
@@ -191,7 +198,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a53da8"
+				"foreground": "#a81fa1"
 			}
 		},
 		{

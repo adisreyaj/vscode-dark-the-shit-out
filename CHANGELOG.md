@@ -2,8 +2,7 @@
 
 All notable changes to the "dark-the-shit-out" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [01 - 04 -2019]
 
-## [Unreleased]
-
-- Initial release
+- Initial release (0.0.1)
+- Minor Bugfixes (0.0.2)
