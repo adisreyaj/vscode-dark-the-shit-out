@@ -2,7 +2,7 @@
 	"name": "Dark The Shit Out",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#060011",
+		"editor.background": "#070013d5",
 		"editor.foreground": "#7473af",
 		"activityBarBadge.background": "#450391",
 		"activityBarBadge.foreground": "#fff",
@@ -50,7 +50,7 @@
 		"list.highlightForeground": "#0e408b",
 		"editor.snippetTabstopHighlightBackground": "#0b3958",
 		"sideBarSectionHeader.foreground": "#fff",
-		"sideBarSectionHeader.background": "#360055",
+		"sideBarSectionHeader.background": "#0b0435",
 		"editorSuggestWidget.background": "#05020c",
 		"editorSuggestWidget.foreground": "#b4b4b4",
 		"list.hoverBackground": "#0e408b",
@@ -135,7 +135,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#2773a7"
+				"foreground": "#4db1f3"
 			}
 		},
 		{
@@ -148,7 +148,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#530394"
+				"fontStyle": "",
+				"foreground": "#bc6ffc"
 			}
 		},
 		{
@@ -183,7 +184,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#bd2772"
+				"foreground": "#ce9b59"
 			}
 		},
 		{
@@ -198,7 +199,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#a81fa1"
+				"foreground": "#6ac262"
 			}
 		},
 		{
@@ -214,7 +215,8 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"fontStyle": "",
+				"foreground": "#d8a23f"
 			}
 		},
 		{
@@ -223,7 +225,8 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"fontStyle": "italic",
+				"foreground": "#65c6ec"
 			}
 		},
 		{
@@ -237,7 +240,8 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#319179"
+				"fontStyle": "",
+				"foreground": "#2bc49d"
 			}
 		},
 		{
@@ -298,7 +302,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#64a546"
+				"foreground": "#7d3b91"
 			}
 		},
 		{
@@ -307,7 +311,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#dd254d"
+				"foreground": "#6a52f1"
 			}
 		},
 		{
@@ -316,7 +320,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#5686ec"
 			}
 		},
 		{
