@@ -6,3 +6,4 @@ All notable changes to the "dark-the-shit-out" extension will be documented in t
 
 - Initial release (0.0.1)
 - Minor Bugfixes (0.0.2)
+- [Fixed]Editor Suggest Widget Text not Visible (0.0.5)
