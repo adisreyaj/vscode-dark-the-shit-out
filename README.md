@@ -14,8 +14,6 @@ I made this theme to get a balance between color and the dark vibe. I like blue 
 
 ![SCSS](images/preview-css.png)
 
-![DEBUGGING](images/preview-debugging.png)
-
 ## How to Install
 
 1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
